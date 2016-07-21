@@ -1998,3 +1998,11 @@ blockquote:after {
     -moz-transition: all .8s ease;
     -o-transition: all .8s ease;
 }
+
+.FollowByEmail .follow-by-email-inner .follow-by-email-submit {
+    border: 0;
+}
+
+.FollowByEmail .follow-by-email-inner .follow-by-email-address {
+    width: 100%;
+}
