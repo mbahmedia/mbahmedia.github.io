@@ -1,2 +1,2 @@
-# mbahmedia.github.io
-This repo is static file of Mbah Media.
+# Parazurg
+This repo is static file of Parazurg.
